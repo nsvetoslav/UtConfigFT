@@ -1,0 +1,8 @@
+section data:
+	param 1: value;
+	param two: value2;
+
+section networking:
+	param ip_address: "127.0.0.1";
+	param port: 8080;
+	param acceptance: disabled;
